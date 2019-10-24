@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7eb8a6b-4459-417f-ad0a-e1ad885d4132" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SDwlrkDIC924Ej9j7aB2kIscSz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Javascript/QiMen" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\aliyun\WebstormProjects\QM\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.qimen.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/QM/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="qimen.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/QM/qimen.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="tab.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/QM/tab.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="text.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/QM/text.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.qimen.html" />
+        <item itemvalue="JavaScript Debug.tab.html" />
+        <item itemvalue="JavaScript Debug.text.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7eb8a6b-4459-417f-ad0a-e1ad885d4132" name="默认更改列表" comment="" />
+      <created>1571111627473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571111627473</updated>
+      <workItem from="1571111628660" duration="20284000" />
+      <workItem from="1571210656315" duration="3908000" />
+      <workItem from="1571215955392" duration="6000" />
+      <workItem from="1571707792196" duration="18594000" />
+      <workItem from="1571815357572" duration="2269000" />
+      <workItem from="1571821022467" duration="1730000" />
+      <workItem from="1571884676892" duration="1430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1484" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1571790795446">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1484" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1571790795446" />
+    <state x="-1489" y="93" key="FileChooserDialogImpl" timestamp="1571818488636">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1489" y="93" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1571818488636" />
+    <state x="-1650" y="0" key="SettingsEditor" timestamp="1571817801128">
+      <screen x="-1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="-1650" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1571817801128" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1571210975308" />
+  </component>
+</project>
